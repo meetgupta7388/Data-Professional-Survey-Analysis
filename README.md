@@ -2,7 +2,7 @@
 
 ## Description
 
-Project 2 unveils the magic of data in the professional survey breakdown! Witness the transformation of raw survey data into actionable insights, highlighting the power of effective data cleaning. Check out the captivating visuals in the attached images.
+This project unveils the magic of data in the professional survey breakdown! Witness the transformation of raw survey data into actionable insights, highlighting the power of effective data cleaning. Check out the captivating visuals in the attached images.
 
 ## Objective
 
@@ -10,9 +10,9 @@ The objective of this project is to analyze data from a professional survey, dem
 
 ## Repository Structure
 
-- **/Data:** Contains the raw survey data used for analysis.
-- **/Notebooks:** Includes Jupyter notebooks detailing the data cleaning, analysis, and visualization process.
-- **/Visuals:** Contains captivating visuals generated from the analysis, showcasing key findings and insights.
+- **Data**: Contains the raw survey data used for analysis.
+- **Notebooks**: Includes Jupyter notebooks detailing the data cleaning, analysis, and visualization process.
+- **Visuals**: Contains captivating visuals generated from the analysis, showcasing key findings and insights.
 
 ## Key Highlights
 
@@ -24,12 +24,31 @@ The objective of this project is to analyze data from a professional survey, dem
 ## Getting Started
 
 To explore the project:
-1. Clone this repository to your local machine.
-2. Navigate to the Notebooks directory and open the Jupyter notebooks.
-3. Follow the step-by-step analysis and visualization process outlined in the notebooks.
-4. Explore the Visuals directory to view captivating visuals highlighting key findings from the analysis.
 
-## Contributors
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/meetgupta007/Data-Professional-Survey-Analysis.git
+    ```
 
-- Meet Gupta
+2. **Navigate to the Notebooks directory**:
+    - Open the Jupyter notebooks using Jupyter Notebook or JupyterLab.
+    - Follow the step-by-step analysis and visualization process outlined in the notebooks.
+
+3. **Explore the Visuals directory**:
+    - View captivating visuals highlighting key findings from the analysis.
+
+## Prerequisites
+
+- [Jupyter Notebook](https://jupyter.org/install) or [JupyterLab](https://jupyter.org/install) installed on your machine.
+- Python and required libraries installed (e.g., pandas, matplotlib, seaborn).
+
+## Usage
+
+1. **Open the Jupyter notebooks** in the Notebooks directory.
+2. **Follow the analysis steps** to understand the data cleaning and visualization process.
+3. **Review the visuals** in the Visuals directory to see the key insights derived from the analysis.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
