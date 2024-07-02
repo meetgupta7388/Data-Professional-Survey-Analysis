@@ -30,23 +30,25 @@ To explore the project:
     git clone https://github.com/meetgupta007/Data-Professional-Survey-Analysis.git
     ```
 
-2. **Navigate to the Notebooks directory**:
-    - Open the Jupyter notebooks using Jupyter Notebook or JupyterLab.
-    - Follow the step-by-step analysis and visualization process outlined in the notebooks.
+2. **Open the Power BI file**:
+    - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+    - Open `Data Professional Survey Analysis.pbix` with Power BI Desktop.
 
-3. **Explore the Visuals directory**:
-    - View captivating visuals highlighting key findings from the analysis.
+3. **Load your data**:
+    - Replace the sample data with your own sales data.
+    - Ensure your data source connections are properly configured.
 
 ## Prerequisites
 
-- [Jupyter Notebook](https://jupyter.org/install) or [JupyterLab](https://jupyter.org/install) installed on your machine.
-- Python and required libraries installed (e.g., pandas, matplotlib, seaborn).
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.
+- Access to sales data in a compatible format (e.g., Excel, CSV, SQL database).
 
 ## Usage
 
-1. **Open the Jupyter notebooks** in the Notebooks directory.
-2. **Follow the analysis steps** to understand the data cleaning and visualization process.
-3. **Review the visuals** in the Visuals directory to see the key insights derived from the analysis.
+1. **Open the Power BI file** and connect it to your data source.
+2. **Update data connections** to reflect your data source details.
+3. **Refresh the data** in Power BI to see the updated visualizations.
+4. **Explore the dashboard** to gain insights into your sales data.
 
 ## Contributing
 
